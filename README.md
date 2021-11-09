@@ -1,1 +1,1 @@
-# Light/Dark Theme Toggle with JavaScript
+## Light/Dark Theme Toggle with JavaScript
